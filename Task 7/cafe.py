@@ -5,21 +5,17 @@ stock = {'apple' : 5,
          'brownie' : 8, 
          'coffee' : 2, 
          'tea' : 10}
-
+#Dictionary using values from menu key:values pairs indicate the stock amount of the items from menu
 price = {'apple' : 2, 
          'cake' : 5, 
          'brownie' : 4.5,
          'coffee' : 2, 
          'tea' : 1.5}
+# Price of each item from the menu 
 
-total_stock = {item: stock[item] * price[item] for item in stock if item in menu}
-#creates new dictionary containing keys based on menu and multiplication of the values from price and stock
-#uses items() method
-#if item removed from menu, stock controll doesn't represent it even if it is in either dictionary
-apple_value = (stock['apple'] * price['apple'])
-# I need to multiply the value from stock with the value from price
-#total_stock = (stock.values() * price.values())
+total_stock = 0 #Starts the total_stock value at 0
+for item in menu: #Allows items to be removed from menu - Prevenets that menu item from appearing in calculation  
+    menu_item = stock[item] * price[item] #value of each menu_item currently in stock. matches key:value items between stock and price 
+    total_stock += menu_item #for each item in the menu list, adds the value from stock * price to total_stock
 
-
-
-print (f"The value of {menu} is {total_stock}")
+print (f"The total value of remaining stock is £{total_stock}") #prints the value of the total_stock variable in an easy to understand output. 
