@@ -9,7 +9,6 @@ for i in range (len(string)): #iterate the foor loop for the number a number of 
 
 print (cap_low_string)
 
-
 string_split = string.split() #splits the string into individual words in a list
 
 upper_lower = "" #Empty string to store result of for loop below
