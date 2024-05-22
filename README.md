@@ -27,7 +27,7 @@ _I/O operations_
   Makes use of for loops and list comprehension to order and present teh information. 
 
 
-** Task 9 **
+**Task 9**
 
 _Object Oriented Programming - Classes_
 
