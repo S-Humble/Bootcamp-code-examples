@@ -28,6 +28,7 @@ _I/O operations_
 
 
 ** Task 9 **
+
 _Object Oriented Programming - Classes_
 
 Creation of classes and functions, using an email organiser as a task. Methods are used to define the functions that are used in popuklating the inbox, liast the emails and identify if the whether an email has been read from the inbox.   
