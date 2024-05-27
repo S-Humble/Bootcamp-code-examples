@@ -1,6 +1,8 @@
 # This is the code that I am producing in the HyperionDev Data Science (fundamentals) bootcamp
 ### The full portfolio including instructor comments can be found here: https://www.hyperiondev.com/portfolio/SA24020014649/
 
+:construction: Currently under construction :hammer:
+
 These tasks are a demonstration of the skills and competencies that I have developed over the course of this bootcamp. Many of these represent the basic use of python to deal with inputs, for loops and use of libraries such as Numpy and Seaborn. 
 Later tasks focus on data processing (including EDA, preprocessing and visualisation) and machine learning (Linear, multilinear and logistic regression,  
 
