@@ -26,7 +26,7 @@ _Handling strings, lists and dictionaries_
 _I/O operations_
 
   Learning to read text files into a program and use list creation and modification to store and print information information from  a source. Student_registers task is creating a document for students to sign for an exam. 
-  Makes use of for loops and list comprehension to order and present teh information. 
+  Makes use of for loops and list comprehension to order and present the information. 
 
 
 **Task 9**
