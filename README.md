@@ -39,5 +39,13 @@ Creation of classes and functions, using an email organiser as a task. Methods a
 
 **Task 11** 
 
+**Task 12** 
+
+**Task 13** 
+
+**Task 14** 
+
+## Machine learning
+
 
 
