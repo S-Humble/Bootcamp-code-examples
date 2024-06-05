@@ -45,7 +45,7 @@ Creation of classes and functions, using an email organiser as a task. Methods a
 
 **[Task 19 - _Logistic regression_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2019%20-%20Logistic%20regression)**
 
-**[Task 20 - _Decision trees_]()**
+**[Task 20 - _Decision trees_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2020%20-%20Decision%20trees)**
 
 **[Task 21 - _Random Forests_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2021%20-%20Random%20forests)**
 
