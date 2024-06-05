@@ -7,7 +7,7 @@ These tasks are a demonstration of the skills and competencies that I have devel
 Later tasks focus on data processing (including EDA, preprocessing and visualisation) and machine learning (Linear, multilinear and logistic regression,  
 
 ## Basic programming principles
-**[Task 6]**(https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%206)
+**[Task 6](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%206)**
 
 _User-defined functions_
 
