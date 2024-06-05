@@ -22,7 +22,6 @@ Later tasks focus on data processing (including EDA, preprocessing and visualisa
   Learning to read text files into a program and use list creation and modification to store and print information information from  a source. Student_registers task is creating a document for students to sign for an exam. 
   Makes use of for loops and list comprehension to order and present the information. 
 
-
 **[Task 9 - _Object Oriented Programming - Classes_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%209)**
 
 Creation of classes and functions, using an email organiser as a task. Methods are used to define the functions that are used in popuklating the inbox, liast the emails and identify if the whether an email has been read from the inbox.   
@@ -40,6 +39,14 @@ Creation of classes and functions, using an email organiser as a task. Methods a
 **[Task 15 - _Exploratory data analysis_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2015)**
 
 ## Machine learning
+**[Task 17 - _Simple linear regression and machine learning_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2017%20-%20Linear%20regression)**
 
+**[Task 18 - _Multiple linear regression_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2018%20-%20Multiple%20linear%20regression)**
+
+**[Task 19 - _Logistic regression_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2019%20-%20Logistic%20regression)**
+
+**[Task 20 - _Decision trees_]()**
+
+**[Task 21 - _Random Forests_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2021%20-%20Random%20forests)**
 
 
