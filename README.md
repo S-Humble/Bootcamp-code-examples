@@ -54,6 +54,9 @@ Used heatmaps to identify correlation between features and using this to design 
 ## Machine learning
 **[Task 17 - _Simple linear regression and machine learning_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2017%20-%20Linear%20regression)**
 
+Preprocessing data to allow linear regression to be conducted on the 'Titanic' dataset. The instructions required an analyisis of a binary variable, reulsting in sub-optimal results which have been identified in the task. 
+MinMaxScaler() has been employed for developing training and testing sets for the linear regression to be applied. 
+
 **[Task 18 - _Multiple linear regression_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2018%20-%20Multiple%20linear%20regression)**
 
 **[Task 19 - _Logistic regression_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2019%20-%20Logistic%20regression)**
