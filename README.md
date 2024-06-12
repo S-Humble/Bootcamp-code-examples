@@ -31,13 +31,25 @@ Creation of classes and functions, using an email organiser as a task. Methods a
 
 **[Task 11 -  _Datastes and dataframes_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2011)** 
 
+Working with dataframes including finding ways to identify and select certain rowns and columns using .iloc[:]
+
+
 **[Task 12 - _Data visualisation_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2012)** 
 
+Basics of data visualisation using Seaborn and Matplotlib for the 'Cars93' dataset. Creating and analysing box plots, histograms, line and bar plots.  
+
 **[Task 13 - _Data cleaning_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2013)** 
+
+Manipulating and cleaning data in a dataframe. Using .strip(), .lower() etc. for initial cleaning of unformated country labels. 
+Basic use of Fuzzywuzzy to identify close matches and similarity between database inputs. 
 
 **[Task 14 - _Data preprocessing_]()** 
 
 **[Task 15 - _Exploratory data analysis_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2015)**
+
+Data pre-processing and EDA task. Identifying which columns to keep for analysis, encoding binary features using LabelEncoder(). 
+
+Used heatmaps to identify correlation between features and using this to design plots for analysis. 
 
 ## Machine learning
 **[Task 17 - _Simple linear regression and machine learning_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2017%20-%20Linear%20regression)**
