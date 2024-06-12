@@ -48,7 +48,6 @@ Basic use of Fuzzywuzzy to identify close matches and similarity between databas
 **[Task 15 - _Exploratory data analysis_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%2015)**
 
 Data pre-processing and EDA task. Identifying which columns to keep for analysis, encoding binary features using LabelEncoder(). 
-
 Used heatmaps to identify correlation between features and using this to design plots for analysis. 
 
 ## Machine learning
