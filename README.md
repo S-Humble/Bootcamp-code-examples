@@ -5,6 +5,7 @@
 
 These tasks are a demonstration of the skills and competencies that I have developed over the course of this bootcamp. Many of these represent the basic use of python to deal with inputs, for loops and use of libraries such as Numpy and Seaborn. 
 Later tasks focus on data processing (including EDA, preprocessing and visualisation) and machine learning (Linear, multilinear and logistic regression,  
+## Credit: All tasks in the repository are my own
 
 ## Basic programming principles
 **[Task 6 - _User-defined functions_](https://github.com/S-Humble/Bootcamp-code-examples/tree/main/Tasks/Task%206)**
